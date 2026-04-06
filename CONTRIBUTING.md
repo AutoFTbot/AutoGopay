@@ -149,7 +149,7 @@ Gunakan cara mudah: kirim logo via Telegram ke [@AutoGopayBot](https://t.me/Auto
 ## 📞 Butuh Bantuan?
 
 Jika Anda kesulitan atau ada pertanyaan:
-- 💬 Telegram: [@AutoGopayBot](https://t.me/AutoGopayBot)
+- 💬 Telegram: [@AutoFtBot69](https://t.me/AutoFtBot69)
 - 🐛 GitHub Issues: [Create an issue](https://github.com/AutoFTbot/AutoGopay/issues)
 
 ---
