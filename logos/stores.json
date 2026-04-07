@@ -46,5 +46,11 @@
     "logo": "https://raw.githubusercontent.com/AutoFTbot/AutoGopay/main/logos/partner-3.png",
     "website": "t.me/whalienstopupbot",
     "description": "BOT OTOMATIS ORDER TOP UP GAME & PULSA"
+  },
+  {
+    "name": "pictlord",
+    "logo": "https://raw.githubusercontent.com/AutoFTbot/AutoGopay/main/logos/partner-4.png",
+    "website": "https://pictlord.web.id",
+    "description": "Photobooth Apps"
   }
 ]
