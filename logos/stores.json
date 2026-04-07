@@ -40,5 +40,11 @@
     "logo": "https://raw.githubusercontent.com/AutoFTbot/AutoGopay/main/logos/partner-2.png",
     "website": "https://panel.wuzzstore.my.id",
     "description": "Tempat pembelian Paket Akrab dan Circle"
+  },
+  {
+    "name": "whaliensstore",
+    "logo": "https://raw.githubusercontent.com/AutoFTbot/AutoGopay/main/logos/partner-3.png",
+    "website": "t.me/whalienstopupbot",
+    "description": "BOT OTOMATIS ORDER TOP UP GAME & PULSA"
   }
 ]
