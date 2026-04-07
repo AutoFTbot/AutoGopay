@@ -17,16 +17,22 @@
     "website": "https://jabarvpn.net/",
     "description": "VPN Premium Tercepat Untuk Streaming & Download"
   },
-    {
+  {
     "name": "PT RAJA SERVER PREMIUM",
     "logo": "https://raw.githubusercontent.com/AutoFTbot/AutoGopay/main/logos/rajaserverpremium.png",
     "website": "https://rajaserver.web.id/",
     "description": "VPN Premium super ngebut buat streaming anti buffering dan download kenceng tanpa ribet."
   },
-    {
+  {
     "name": "YUKSAPPSTORE_",
     "logo": "https://raw.githubusercontent.com/AutoFTbot/AutoGopay/main/logos/YuksAppStore_.png",
     "website": "https://yuksappstore.com/",
     "description": "Premium accounts hub untuk semua kebutuhan digitalmu."
+  },
+  {
+    "name": "testing",
+    "website": "https://testing.co",
+    "description": "testing ini",
+    "logo": "https://raw.githubusercontent.com/AutoFTbot/AutoGopay/main/logos/partner-1.png"
   }
 ]
