@@ -34,5 +34,11 @@
     "logo": "https://raw.githubusercontent.com/AutoFTbot/AutoGopay/main/logos/partner-1.png",
     "website": "https://app.mayugoro.com",
     "description": "kuota akrab & all operator"
+  },
+  {
+    "name": "WUZZSTORE",
+    "logo": "https://raw.githubusercontent.com/AutoFTbot/AutoGopay/main/logos/partner-2.png",
+    "website": "https://panel.wuzzstore.my.id",
+    "description": "Tempat pembelian Paket Akrab dan Circle"
   }
 ]
