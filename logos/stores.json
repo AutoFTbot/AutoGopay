@@ -82,5 +82,11 @@
     "logo": "https://raw.githubusercontent.com/AutoFTbot/AutoGopay/main/logos/partner-10.png",
     "website": "https://discord.gg/xK4srJg3gV",
     "description": "PROXY SOCKS5 DATACENTER"
+  },
+  {
+    "name": "1FORCR STORE",
+    "logo": "https://raw.githubusercontent.com/AutoFTbot/AutoGopay/main/logos/partner-11.png",
+    "website": "https://1forcrvpn.store/",
+    "description": "Penyedia layanan akun vpn premium seperti akun SSH-WS, VMESS, VLESS, TROJAN, UDP ZIVPN dan UDP HTTP CUSTOM"
   }
 ]
